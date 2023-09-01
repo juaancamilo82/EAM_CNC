@@ -1,0 +1,2 @@
+nombre: Pepito Nieto	
+EStatura: 180 cm 
